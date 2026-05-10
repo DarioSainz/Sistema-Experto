@@ -1,0 +1,53 @@
+Sujeto_ID,Diagnostico,Score_Burnout,Plan_Personalizado
+1,MODERADO,5.29,Riesgo incipiente (MODERADO). Aplica la regla 20-20-20 o introduce micro-pausas programadas en tu jornada. Intenta sustituir tu ocio digital por actividades físicas o al aire libre.
+2,MODERADO,5.71,Riesgo incipiente (MODERADO). Aplica la regla 20-20-20 o introduce micro-pausas programadas en tu jornada. Aplica higiene de sueño urgente (cero pantallas 1h antes de dormir). Intenta sustituir tu ocio digital por actividades físicas o al aire libre.
+3,ALTO,6.52,"ALERTA RIESGO ALTO. Activa el 'Modo Trabajo' y desinstala apps del trabajo en tu móvil personal. Revisa la densidad de tareas con tu supervisor para re-priorizar urgentemente. Establece un horario estricto: fuera de tu jornada laboral, el móvil debe estar en 'No Molestar'."
+4,MODERADO,5.5,Riesgo incipiente (MODERADO). Aplica higiene de sueño urgente (cero pantallas 1h antes de dormir).
+5,MODERADO,4.0,Riesgo incipiente (MODERADO). Aplica la regla 20-20-20 o introduce micro-pausas programadas en tu jornada.
+6,MODERADO,5.29,Riesgo incipiente (MODERADO). Aplica la regla 20-20-20 o introduce micro-pausas programadas en tu jornada. Aplica higiene de sueño urgente (cero pantallas 1h antes de dormir).
+7,MODERADO,5.29,Riesgo incipiente (MODERADO).
+8,BAJO,1.08,Estado óptimo.
+9,CRÍTICO,8.06,ESTADO CRÍTICO. Desconexión digital total obligatoria este fin de semana. Busca apoyo psicológico profesional inmediatamente; no tienes por qué afrontar esto en soledad. Agotamiento emocional al límite: valora solicitar vacaciones adelantadas o acudir a salud laboral.
+10,MODERADO,4.0,Riesgo incipiente (MODERADO). Aplica la regla 20-20-20 o introduce micro-pausas programadas en tu jornada. Intenta sustituir tu ocio digital por actividades físicas o al aire libre.
+11,ALTO,6.09,ALERTA RIESGO ALTO. Activa el 'Modo Trabajo' y desinstala apps del trabajo en tu móvil personal. Revisa la densidad de tareas con tu supervisor para re-priorizar urgentemente.
+12,MODERADO,5.29,Riesgo incipiente (MODERADO). Intenta sustituir tu ocio digital por actividades físicas o al aire libre.
+13,MODERADO,4.0,Riesgo incipiente (MODERADO). Aplica la regla 20-20-20 o introduce micro-pausas programadas en tu jornada. Intenta sustituir tu ocio digital por actividades físicas o al aire libre.
+14,MODERADO,5.5,Riesgo incipiente (MODERADO). Aplica la regla 20-20-20 o introduce micro-pausas programadas en tu jornada. Intenta sustituir tu ocio digital por actividades físicas o al aire libre.
+15,MODERADO,4.0,Riesgo incipiente (MODERADO). Intenta sustituir tu ocio digital por actividades físicas o al aire libre.
+17,ALTO,6.77,"ALERTA RIESGO ALTO. Activa el 'Modo Trabajo' y desinstala apps del trabajo en tu móvil personal. Revisa la densidad de tareas con tu supervisor para re-priorizar urgentemente. Establece un horario estricto: fuera de tu jornada laboral, el móvil debe estar en 'No Molestar'."
+18,ALTO,7.95,"ALERTA RIESGO ALTO. Activa el 'Modo Trabajo' y desinstala apps del trabajo en tu móvil personal. Revisa la densidad de tareas con tu supervisor para re-priorizar urgentemente. Establece un horario estricto: fuera de tu jornada laboral, el móvil debe estar en 'No Molestar'."
+19,ALTO,7.95,"ALERTA RIESGO ALTO. Activa el 'Modo Trabajo' y desinstala apps del trabajo en tu móvil personal. Revisa la densidad de tareas con tu supervisor para re-priorizar urgentemente. Establece un horario estricto: fuera de tu jornada laboral, el móvil debe estar en 'No Molestar'."
+20,MODERADO,4.0,Riesgo incipiente (MODERADO).
+22,MODERADO,5.29,Riesgo incipiente (MODERADO).
+23,MODERADO,5.29,Riesgo incipiente (MODERADO). Aplica la regla 20-20-20 o introduce micro-pausas programadas en tu jornada.
+24,MODERADO,5.29,Riesgo incipiente (MODERADO).
+25,MODERADO,5.5,Riesgo incipiente (MODERADO). Aplica la regla 20-20-20 o introduce micro-pausas programadas en tu jornada. Aplica higiene de sueño urgente (cero pantallas 1h antes de dormir).
+26,BAJO,1.08,"Estado óptimo. Tu percepción de eficacia es excelente, mantén tus hábitos actuales."
+27,ALTO,7.61,"ALERTA RIESGO ALTO. Revisa la densidad de tareas con tu supervisor para re-priorizar urgentemente. Establece un horario estricto: fuera de tu jornada laboral, el móvil debe estar en 'No Molestar'."
+28,MODERADO,3.76,Riesgo incipiente (MODERADO). Intenta sustituir tu ocio digital por actividades físicas o al aire libre.
+29,MODERADO,4.0,Riesgo incipiente (MODERADO).
+30,MODERADO,5.29,Riesgo incipiente (MODERADO). Aplica higiene de sueño urgente (cero pantallas 1h antes de dormir). Intenta sustituir tu ocio digital por actividades físicas o al aire libre.
+31,ALTO,6.77,"ALERTA RIESGO ALTO. Activa el 'Modo Trabajo' y desinstala apps del trabajo en tu móvil personal. Revisa la densidad de tareas con tu supervisor para re-priorizar urgentemente. Establece un horario estricto: fuera de tu jornada laboral, el móvil debe estar en 'No Molestar'."
+32,MODERADO,5.98,Riesgo incipiente (MODERADO).
+33,MODERADO,5.71,Riesgo incipiente (MODERADO). Aplica higiene de sueño urgente (cero pantallas 1h antes de dormir).
+34,MODERADO,5.5,Riesgo incipiente (MODERADO). Aplica higiene de sueño urgente (cero pantallas 1h antes de dormir). Intenta sustituir tu ocio digital por actividades físicas o al aire libre.
+35,MODERADO,4.0,Riesgo incipiente (MODERADO).
+36,ALTO,7.95,"ALERTA RIESGO ALTO. Activa el 'Modo Trabajo' y desinstala apps del trabajo en tu móvil personal. Revisa la densidad de tareas con tu supervisor para re-priorizar urgentemente. Establece un horario estricto: fuera de tu jornada laboral, el móvil debe estar en 'No Molestar'."
+37,MODERADO,5.29,Riesgo incipiente (MODERADO).
+38,ALTO,6.77,"ALERTA RIESGO ALTO. Activa el 'Modo Trabajo' y desinstala apps del trabajo en tu móvil personal. Revisa la densidad de tareas con tu supervisor para re-priorizar urgentemente. Establece un horario estricto: fuera de tu jornada laboral, el móvil debe estar en 'No Molestar'."
+39,ALTO,6.09,"ALERTA RIESGO ALTO. Activa el 'Modo Trabajo' y desinstala apps del trabajo en tu móvil personal. Revisa la densidad de tareas con tu supervisor para re-priorizar urgentemente. Establece un horario estricto: fuera de tu jornada laboral, el móvil debe estar en 'No Molestar'."
+40,ALTO,7.95,"ALERTA RIESGO ALTO. Activa el 'Modo Trabajo' y desinstala apps del trabajo en tu móvil personal. Revisa la densidad de tareas con tu supervisor para re-priorizar urgentemente. Establece un horario estricto: fuera de tu jornada laboral, el móvil debe estar en 'No Molestar'."
+41,MODERADO,4.0,Riesgo incipiente (MODERADO). Intenta sustituir tu ocio digital por actividades físicas o al aire libre.
+42,MODERADO,5.29,Riesgo incipiente (MODERADO). Aplica higiene de sueño urgente (cero pantallas 1h antes de dormir).
+43,MODERADO,4.0,Riesgo incipiente (MODERADO). Aplica higiene de sueño urgente (cero pantallas 1h antes de dormir).
+44,ALTO,7.61,"ALERTA RIESGO ALTO. Activa el 'Modo Trabajo' y desinstala apps del trabajo en tu móvil personal. Revisa la densidad de tareas con tu supervisor para re-priorizar urgentemente. Establece un horario estricto: fuera de tu jornada laboral, el móvil debe estar en 'No Molestar'."
+45,MODERADO,4.0,Riesgo incipiente (MODERADO). Aplica la regla 20-20-20 o introduce micro-pausas programadas en tu jornada. Aplica higiene de sueño urgente (cero pantallas 1h antes de dormir). Intenta sustituir tu ocio digital por actividades físicas o al aire libre.
+46,MODERADO,5.29,Riesgo incipiente (MODERADO).
+47,MODERADO,5.5,Riesgo incipiente (MODERADO). Aplica higiene de sueño urgente (cero pantallas 1h antes de dormir).
+48,ALTO,6.52,"ALERTA RIESGO ALTO. Activa el 'Modo Trabajo' y desinstala apps del trabajo en tu móvil personal. Revisa la densidad de tareas con tu supervisor para re-priorizar urgentemente. Establece un horario estricto: fuera de tu jornada laboral, el móvil debe estar en 'No Molestar'."
+49,MODERADO,5.5,Riesgo incipiente (MODERADO). Aplica higiene de sueño urgente (cero pantallas 1h antes de dormir). Intenta sustituir tu ocio digital por actividades físicas o al aire libre.
+50,MODERADO,5.71,Riesgo incipiente (MODERADO). Aplica higiene de sueño urgente (cero pantallas 1h antes de dormir).
+51,MODERADO,5.29,Riesgo incipiente (MODERADO). Aplica la regla 20-20-20 o introduce micro-pausas programadas en tu jornada.
+52,ALTO,6.47,"ALERTA RIESGO ALTO. Activa el 'Modo Trabajo' y desinstala apps del trabajo en tu móvil personal. Revisa la densidad de tareas con tu supervisor para re-priorizar urgentemente. Establece un horario estricto: fuera de tu jornada laboral, el móvil debe estar en 'No Molestar'."
+53,ALTO,6.15,"ALERTA RIESGO ALTO. Revisa la densidad de tareas con tu supervisor para re-priorizar urgentemente. Apoyo social bajo: Acude a RRHH o apóyate en compañeros de confianza para no llevar la carga a solas. Establece un horario estricto: fuera de tu jornada laboral, el móvil debe estar en 'No Molestar'."
+54,MODERADO,3.76,Riesgo incipiente (MODERADO). Intenta sustituir tu ocio digital por actividades físicas o al aire libre.
